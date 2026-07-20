@@ -2,7 +2,7 @@
 
 ## Repository identity
 
-This repository — **`intel-agency/agent-context`** — is the **upstream GitHub template**: it is cloned to seed each downstream instance that houses a unique app plan and develops it. Any other repo name is a **clone instance** of this template, so when the user refers to "a downstream clone", "an instance", "the template", or names a different repo, treat it as a clone seeded from this one.
+This repository — **`intel-agency/gap-miner-v2-hotel63`** — is the **upstream GitHub template**: it is cloned to seed each downstream instance that houses a unique app plan and develops it. Any other repo name is a **clone instance** of this template, so when the user refers to "a downstream clone", "an instance", "the template", or names a different repo, treat it as a clone seeded from this one.
 
 ## Memory and Rules
 
